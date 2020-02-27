@@ -30,6 +30,6 @@ spec:
     spec:
       containers:
       - name: app
-        image: "magalixcorp/flasksidecar"
+        image: "boriphuth/flasksidecar"
       - name: web
-        image: "magalixcorp/nginxsidecar"
+        image: "boriphuth/nginxsidecar"
